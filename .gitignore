@@ -3,6 +3,6 @@
 *.so
 *.a
 *~
+*.pyc
+*.sqlite3
 .stack-work/
-db.sqlite3
-
