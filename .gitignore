@@ -4,3 +4,5 @@
 *.a
 *~
 .stack-work/
+db.sqlite3
+
