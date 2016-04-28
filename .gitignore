@@ -1,0 +1,6 @@
+*.hi
+*.o
+*.so
+*.a
+*~
+.stack-work/
