@@ -6,4 +6,11 @@
 *.pyc
 *.sqlite3
 .stack-work/
+haskell/b-tree/
+haskell/ghcvm
+angularjs/
+djang/
+bootstrap/
+go/
+js/
 
