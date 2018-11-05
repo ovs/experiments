@@ -1,0 +1,842 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pricex",
+				"PRICEX"
+			],
+			[
+				"cla",
+				"classmethod	(builtin, class)"
+			],
+			[
+				"i",
+				"i"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tgen/settings.py",
+			"settings":
+			{
+				"buffer_size": 3100,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Tas",
+				"Tasks: New document"
+			],
+			[
+				"ta",
+				"Tasks: New document"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"t",
+				"Tasks: New"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"gu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"gits",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"gitgutt",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"gitg",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"Ta",
+				"Tasks: New document"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"ht",
+				"Tidy HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Markdown Header 1"
+			],
+			[
+				"Ha",
+				"SublimeHaskell: Show type"
+			],
+			[
+				"!",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Has",
+				"Set Syntax: Haskell"
+			],
+			[
+				"Hask",
+				"SublimeHaskell: Run"
+			],
+			[
+				"Task",
+				"Tasks: New document"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"T",
+				"Tasks: New document"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Subl",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"Sublime",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"su",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"Su",
+				"SublimeLinter: Load-Save Linting"
+			],
+			[
+				"Sub",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sub",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"G",
+				"Git: Status"
+			],
+			[
+				"ann",
+				"Git: Toggle Annotations"
+			],
+			[
+				"gi",
+				"Git: Log All"
+			],
+			[
+				"rop",
+				"Rope: Import Assist"
+			],
+			[
+				"ropt",
+				"Rope Refactoring: Restructure"
+			],
+			[
+				"r",
+				"Rope: Show Documentation"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"im",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"rope",
+				"Rope: Organize Imports"
+			],
+			[
+				"import",
+				"Rope: Organize Imports"
+			],
+			[
+				"Im",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"Rope",
+				"Rope Refactoring: Restructure"
+			],
+			[
+				"Ro",
+				"Rope Refactoring: Extract Variable"
+			],
+			[
+				"Pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: List Packages"
+			],
+			[
+				"Tasks",
+				"Tasks: New"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 262.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ovs/W2/fasta6/userprofile/utils.py",
+		"/home/ovs/W2/fasta6/uorder/models.py",
+		"/home/ovs/W2/fasta6/uorder/urls.py",
+		"/home/ovs/W2/fasta6/zametki2.TODO",
+		"/home/ovs/W2/fasta6/uorder/tests.py",
+		"/home/ovs/.V/10-9-2018/1/m2_tweet.js",
+		"/home/ovs/W2/fasta6/userprofile/tests.py",
+		"/home/ovs/W2/fasta6/uorder/templates/uorder/uordertem_detail.html",
+		"/home/ovs/W2/fasta6/uorder/views.py",
+		"/home/ovs/.V/10-9-2018/m2_tweet.js",
+		"/home/ovs/W2/fasta6/uorder/templates/uorder/uorder_list.html",
+		"/home/ovs/W2/fasta6/userprofile/models.py",
+		"/home/ovs/W2/tt/t5/prog.py",
+		"/home/ovs/W2/tt/t5/source3.json",
+		"/home/ovs/W2/tt/t4/prog.py",
+		"/home/ovs/W2/tt/t4/source2.json",
+		"/home/ovs/W2/tt/t3/prog.py",
+		"/home/ovs/W2/tt/t3/source.json",
+		"/home/ovs/W2/tt/t2/source.json",
+		"/home/ovs/W2/tt/t2/prog.py",
+		"/home/ovs/W2/tt/t1/source.json",
+		"/home/ovs/W2/tt/t1/prog.py",
+		"/home/ovs/W2/tt/t1/strings.json",
+		"/home/ovs/W2/tt/t1/import json",
+		"/home/ovs/W2/fasta6/market/models.py",
+		"/home/ovs/W2/fasta6/market/templates/market/marketshop_list.html",
+		"/home/ovs/W2/fasta6/shcase/views.py",
+		"/home/ovs/W2/fasta6/market/views.py",
+		"/home/ovs/W2/fasta6/templates/bbase.html",
+		"/home/ovs/W2/fasta6/zametki.TODO",
+		"/home/ovs/W2/fasta6/market/urls.py",
+		"/home/ovs/W2/fasta6/market/tests.py",
+		"/home/ovs/W2/fasta6/exclude-list.txt",
+		"/home/ovs/reqst",
+		"/home/ovs/W2/fasta6/myproject/settings.py",
+		"/home/ovs/W2/fasta6/market/migrations/0005_auto_20180528_0134.py",
+		"/home/ovs/W2/fasta6/market/migrations/0006_auto_20180528_0147.py",
+		"/home/ovs/W2/fasta6/shcase/admin.py",
+		"/home/ovs/W2/fasta6/balance/templates/balance/balance.html",
+		"/home/ovs/W2/fasta6/market/admin.py",
+		"/home/ovs/W2/fasta6/market/migrations/0003_auto_20180527_1533.py",
+		"/home/ovs/W2/fasta6/market/migrations/0004_auto_20180527_1544.py",
+		"/home/ovs/W2/fasta6/shcase/models.py",
+		"/home/ovs/W2/fasta6/myproject/urls.py",
+		"/home/ovs/W2/fasta6/templates/base.html",
+		"/home/ovs/W2/fasta6/balance/tests.py",
+		"/home/ovs/W2/fasta6/dump-order.sh",
+		"/home/ovs/W2/fasta6/uorder/templates/uorder/uorderitem_list.html",
+		"/home/ovs/W2/fasta6/core/choices.py",
+		"/home/ovs/W2/fasta6/cov1.sh",
+		"/home/ovs/W2/fasta6/uorder/templates/uorder/uorderitem_confirm_delete.html",
+		"/home/ovs/W2/fasta6/uorder/templates/uorder/uorder_confirm_delete.html",
+		"/home/ovs/W2/fasta6/.gitignore",
+		"/home/ovs/W2/fasta6/balance/models.py",
+		"/home/ovs/W2/fasta6/uorder/forms.py",
+		"/home/ovs/W2/fasta6/.coveragerc",
+		"/home/ovs/W2/fasta6/balance/templatetags/extra_tags.py",
+		"/home/ovs/W2/fasta6/makedump.sh",
+		"/home/ovs/W2/fasta6/uorder/templates/uorder_new.html",
+		"/home/ovs/W2/fasta6/uorder/templates/uorder/uorderitem_detail.html",
+		"/home/ovs/W2/fasta6ui/src/sass/app.sass",
+		"/home/ovs/W2/fasta6ui/src/sass/_main.sass",
+		"/home/ovs/W2/fasta6/graph2.sh",
+		"/home/ovs/W2/fasta6ui/src/sass/helpers/_font1.sass",
+		"/home/ovs/W2/fasta6ui/src/sass/_common.sass",
+		"/home/ovs/W2/fasta6/myproject/middleware/filter_ip_middleware.py",
+		"/home/ovs/W2/fasta6/dump/dump-default.json",
+		"/home/ovs/W2/fasta6/dump-contenttypes.json",
+		"/home/ovs/W2/fasta6/uorder/admin.py",
+		"/home/ovs/W2/tf6/graph1.sh",
+		"/home/ovs/W2/tf6/tf6/settings.py",
+		"/home/ovs/W2/fasta6/uorder/templates/uorder/uorder_insert_detail.html",
+		"/home/ovs/W2/fasta6/uorder/templates/uorder/uorder_detail.html",
+		"/home/ovs/W2/tf6/ord/models.py",
+		"/home/ovs/W2/tf6/graph2.sh",
+		"/home/ovs/W2/fasta6/uorder/templates/uorder_list.html",
+		"/home/ovs/W2/fasta6/balance/forms.py",
+		"/home/ovs/W2/fasta6/balance/urls.py",
+		"/home/ovs/W2/fasta6/balance/admin.py",
+		"/home/ovs/W2/tf6/tform/models.py",
+		"/home/ovs/W2/tf6/tform/admin.py",
+		"/home/ovs/W2/tf6/tform/templates/bbase.html",
+		"/home/ovs/W2/fasta6/balance/views.py",
+		"/home/ovs/W2/tf6/tform/views.py",
+		"/home/ovs/W2/tf6/tform/templates/tform/tform_list.html",
+		"/home/ovs/W2/tf6/tf6/urls.py",
+		"/home/ovs/W2/tf6/tform/urls.py",
+		"/home/ovs/W2/fasta6/balance/templatetags/balance_extras.py",
+		"/home/ovs/W2/fasta6/core/lib/utils.py",
+		"/home/ovs/Work/fasta/f3/core/lib/utils.py",
+		"/home/ovs/W2/fasta6/templates/account/login.html",
+		"/home/ovs/W2/tf6/shcase/urls.py",
+		"/home/ovs/W2/fasta6/shcase/templates/shcase/portfolioitem_list.html",
+		"/home/ovs/W2/fasta6/templates/account/bbase.html",
+		"/tmp/li.html",
+		"/home/ovs/W2/fasta6/templates/allauth/account/login.html",
+		"/home/ovs/W2/fasta6ui/src/templates/page1.html",
+		"/home/ovs/W2/fasta6ui/src/templates/layout-test.html",
+		"/home/ovs/W2/fasta6ui/src/templates/layouts/_layout.html",
+		"/home/ovs/W2/fasta6ui/src/sass/_testing.sass",
+		"/home/ovs/W2/fasta6ui/gulp/tasks/copy.js",
+		"/home/ovs/W2/fasta6ui/src/templates/shcase.html",
+		"/home/ovs/W2/fasta6ui/fastaui.TODO",
+		"/home/ovs/W2/fasta6ui/src/templates/partials/_mixins.html",
+		"/home/ovs/W2/fasta6ui/gulp/tasks/nunjucks.js",
+		"/home/ovs/W2/fasta6ui/gulp/tasks/sprite-svg/sprite-svg.js",
+		"/home/ovs/W2/fasta6ui/src/index.yaml",
+		"/home/ovs/W2/fasta6ui/tnunjucks1.js",
+		"/home/ovs/W2/fasta6/info/templates/info/eula.html",
+		"/home/ovs/W2/fasta6/info/urls.py",
+		"/home/ovs/W2/fasta6/templates/ads/welcome.html",
+		"/home/ovs/W2/fasta6/balance/templates/balance/balance_new.html",
+		"/home/ovs/W2/fasta6/balance/templates/balance/balance_list.html",
+		"/home/ovs/W2/fasta6/balance/templates/balance.html",
+		"/home/ovs/W2/fasta6/orders/models.py",
+		"/home/ovs/W2/fasta6ui/src/templates/fa-work1.html",
+		"/home/ovs/W2/fasta6/shcase/tests.py",
+		"/tmp/1",
+		"/home/ovs/W2/fasta6/userprofile/views.py",
+		"/home/ovs/W2/fasta6/deploy.sh",
+		"/home/ovs/W2/fasta6/uorder/templates/uorder_detail.html",
+		"/home/ovs/W2/fasta6/uorder/templates/new_uorder.html",
+		"/home/ovs/W2/fasta6/userprofile/templates/update.html",
+		"/home/ovs/W2/fasta6/userprofile/forms.py",
+		"/home/ovs/W2/fasta6/userprofile/urls.py",
+		"/home/ovs/W2/fasta6/templates/userprofile/userprofile_list.html",
+		"/home/ovs/W2/fasta6/userprofile/templates/userprofile/userprofile_detail.html",
+		"/home/ovs/W2/fasta6/core/managers.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_detail\n",
+			"_detail",
+			"Pro",
+			"ucheck",
+			"el",
+			"whatever",
+			"reverse",
+			"resolve",
+			"resol",
+			"ofr",
+			"redirect",
+			"redir",
+			"return",
+			"uorder_list",
+			"reverse",
+			"print",
+			"Del",
+			"choice",
+			"list2",
+			"uorder_list2\n",
+			"list2",
+			"uorder_list2",
+			"UorderForm",
+			"ListVie",
+			"ListVe",
+			"url",
+			"new",
+			"userprof",
+			"site",
+			"2=",
+			"reverse",
+			"url",
+			"print",
+			"DEBU",
+			"☐",
+			"STATIC",
+			"content",
+			"STATIC",
+			"MEDIA",
+			"BASE",
+			"AUTH",
+			"static",
+			"pop",
+			"time",
+			"DEBUG_TRACE",
+			"DEBUG",
+			"navbar",
+			"nlist",
+			"PROJECT_DIR",
+			"now",
+			"neow",
+			"now",
+			"☐",
+			"sudo",
+			"datetime",
+			"timezone",
+			"print_cart",
+			"p.",
+			"product",
+			"ADDDED",
+			"order",
+			" \n",
+			"user",
+			"print_cart",
+			"assert",
+			"my_for",
+			"зайне",
+			"i18n",
+			"stat",
+			"social",
+			"cart.",
+			"amount",
+			"__re",
+			"add",
+			"update",
+			"stock_am",
+			"is_act",
+			"is_act\n\nis_active",
+			"active",
+			"is_active",
+			"is_act",
+			"session_key",
+			"url",
+			"default",
+			"hello1",
+			"contact",
+			"LANG",
+			"{%",
+			"\n         ",
+			"Forgot",
+			"PROJ",
+			"pass",
+			"ui",
+			"items",
+			"items-list.png",
+			"tab-text-2",
+			"href",
+			"Завершить",
+			"form",
+			"Форма",
+			"☐",
+			"activity.category.rating",
+			"ACTION",
+			"direc",
+			"dragonslairpost",
+			"openRoom",
+			"OpenRoom",
+			"redirect",
+			"resirect",
+			"Cypher Room",
+			"cypherRoom",
+			"cypher",
+			"SphinxLa",
+			"OpenRoo",
+			"lower",
+			"attempts",
+			"hallPost",
+			"westOpened",
+			"scrollRead",
+			"startPost",
+			"                         ",
+			"request.session['action']",
+			"seqno",
+			"testing",
+			"self",
+			"\nself",
+			"self",
+			"request"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pageblock",
+			"marketshop",
+			"object.",
+			"object",
+			"object.",
+			"item",
+			"items.png",
+			"items-list",
+			"action",
+			"quota.max",
+			"riverisland",
+			"lladro",
+			"wowhd",
+			"jimshore.com",
+			"hawkin.com",
+			"zavvi",
+			"iwoot",
+			"boscovs",
+			"luckyvitamin",
+			"pcworld.com",
+			"iherb",
+			"bonton",
+			"modcloth",
+			"re.DOTALL",
+			"header",
+			"Ulabox",
+			"full_url",
+			"Boots",
+			"LondondrugsProducts",
+			"CanadiantireProductsSpider",
+			"SamsclubProductsSpider",
+			"CvsProductsSpider",
+			"blog.",
+			"BlogEntry",
+			"BlogImage",
+			"cartitem",
+			"item",
+			"basket",
+			"topsale_form",
+			">",
+			"<",
+			"curr_col_no",
+			"comments_count",
+			"../",
+			"{{ STATIC_URL }}",
+			"logging.error",
+			"eshop",
+			"Saturday",
+			"Dillards",
+			"Ballard",
+			"Trendseeder",
+			"Luckybrand",
+			"Cratebarrel",
+			"Tobi",
+			"Swell",
+			"Camilla",
+			"Hsn",
+			"Tyr",
+			"Qvc",
+			"Forward",
+			"Sheinside",
+			"Colehaan",
+			"Ebags",
+			"Cwonder",
+			"Bhldn",
+			"Sperry",
+			"Allsaints",
+			"Colehaan",
+			"Vineyards",
+			"Ebags",
+			"Resthard",
+			"logger.debug",
+			"google.com",
+			"google.com.ua",
+			"google.com",
+			"www.google.com.hk",
+			"http://www.bmsmotorparts.com/index.php",
+			"dirname(__FILE__)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tgen/settings.py",
+					"settings":
+					{
+						"buffer_size": 3100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1076,
+								1076
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffee_compile_output":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 246.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 124.0
+	},
+	"output.rope_python_documentation":
+	{
+		"height": 434.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/ovs/W2/fasta6/untitled.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}
